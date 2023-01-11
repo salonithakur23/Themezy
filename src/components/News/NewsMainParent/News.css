@@ -1,0 +1,240 @@
+.picBox{
+    width: 130% !important;
+    height:300px !important;
+    /* background-color: red; */
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.pics{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px; 
+}
+.mainText{
+    font-size: 2rem;
+    width: 120% !important;
+    color: rgb(11, 11, 136);
+    font-weight: 500;
+    margin-top: 80px;
+}
+.text2{
+    color: gray;
+    font-size: 1.4rem;
+    margin-top: 20px;
+    text-align: left;
+    width: 127% !important;
+    
+}
+.blubtn{
+    background-color: rgb(8, 8, 104);
+    color: white;
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: -400px;
+
+}
+.picture{
+    width: 20px;
+    height: 20px;
+    /* background-color: black; */
+    margin-left:260px;
+    margin-top: 10px;
+}
+.picture2{
+    width: 100%;
+    height: 100%;
+    /* margin-top: 100px; */
+   
+}
+.textitems{
+    padding-left: 120px;
+    margin-top: -20px;
+    font-size: 1.2rem;
+    color: gray;
+    /* margin-top: 50px; */
+    /* line-height: 5   px; */
+}
+.paratext{
+    color: rgb(13, 13, 136);
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.bluetext{
+    color: rgba(10, 10, 153, 0.774);
+    font-size: 2.1rem;
+    font-weight: 700;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.mainitemcolor{
+    color:#01A6D4;
+    /* text-align: center; */
+    width:94%;
+    padding-left: 290px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: -70px;
+    text-align: left;
+}
+.oldest{
+    background-color: rgba(161, 159, 159, 0.521);
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    /* margin-top: 100px; */
+    /* margin-left: -800px; */
+}
+.oldest2{
+    background-color: rgba(161, 159, 159, 0.521);
+    width: 200px;
+    height: 40px;
+    border: none;
+    /* padding-top: 40px; */
+    margin-top: -140px !important;
+    margin-left: 20px;
+    border-radius: 10px;  
+    margin-top: 2px !important; 
+}
+.blue2{
+    font-size: 2rem;
+    color: rgb(3, 3, 136);
+    font-weight: 700;
+    padding-left: 230px;
+    margin-top: 100px;
+}
+.repal{
+    color: rgba(128, 128, 128, 0.801);
+    font-size: 1.3rem;
+    width: 100%;
+    padding-left: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .picBox{
+        width: 100% !important;
+        height:300px !important;
+        /* background-color: red; */
+        border-radius: 20px;
+        margin-top: 30px;
+    }
+    .pics{
+        width: 100%;
+        height: 100%;
+        border-radius: 20px; 
+    }
+    .mainText{
+        font-size:1.8rem;
+        width: 120% !important;
+        color: rgb(11, 11, 136);
+        font-weight: 500;
+        margin-top: 80px;
+        margin-left: -40px;
+        /* text-align: center; */
+    }
+    .blubtn{
+        background-color: rgb(8, 8, 104);
+        color: white;
+        border: none;
+        width: 150px;
+        height: 50px;
+        border-radius: 30px;
+        margin-top: 30px;
+        margin-left: 30px;
+    
+    }
+    .text2{
+        color: gray;
+        font-size: 1.4rem;
+        margin-top: 20px;
+        text-align: left;
+        width: 100% !important;
+        
+    }
+    .picture{
+        width: 20px;
+        height: 20px;
+        /* background-color: black; */
+        margin-left:100px;
+        margin-top: 10px;
+    }
+    .picture2{
+        width: 100%;
+        height: 100%;
+        /* margin-top: 100px; */
+       
+    }
+
+    .bluetext{
+        color: rgba(10, 10, 153, 0.774);
+        font-size: 2.1rem;
+        font-weight: 700;
+        margin-left: 20px;
+        width: 100%;
+        margin-top: 100px;
+    }
+    .mainitemcolor{
+        color:#01A6D4;
+        /* text-align: center; */
+        width:94%;
+        /* padding-left: 290px; */
+        margin-left: -270px;
+        font-size: 1.2rem;
+        width: 170% !important;
+        font-weight: 400;
+        margin-top: -70px;
+        /* text-align: left; */
+    }
+    .blue2{
+        font-size: 1.8rem;
+        color: rgb(3, 3, 136);
+        font-weight: 700;
+        padding-left: 30px;
+        margin-top: 100px;
+        text-align: left;
+    }
+    .repal{
+        color: rgba(128, 128, 128, 0.801);
+        font-size: 1.3rem;
+        width: 100% !important;
+        padding-left: 40px;
+    }
+    .oldest{
+        background-color: rgba(161, 159, 159, 0.521);
+        width: 180px;
+        height: 40px;
+        border: none;
+        border-radius: 10px;
+        /* margin-top: 100px; */
+        /* margin-left: -800px; */
+    }
+    .oldest2{
+        background-color: rgba(161, 159, 159, 0.521);
+        width: 180px;
+        height: 40px;
+        border: none;
+        /* padding-top: 40px; */
+        margin-top: -140px !important;
+        margin-left: 10px;
+        border-radius: 10px;  
+        margin-top: 2px !important; 
+    }
+
+}

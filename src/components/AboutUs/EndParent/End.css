@@ -1,0 +1,89 @@
+.rightimg{
+    width: 20px;
+    height: 20px;
+    /* padding-left: 50px; */
+    /* background-color: gray; */
+}
+.rightimg2{
+    width: 100%;
+    height: 100%;
+    margin-left: 50px;margin-top: 20px;
+    /* padding-left: 100px; */
+}
+.assian{
+    color: #01A6D4;
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+.viate{
+    color: rgba(128, 128, 128, 0.575);
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.Nunce{
+    color: #01A6D4;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: left;
+}
+.lorem-text{
+    color: gray;
+    font-size: 1.2rem;
+    text-align: left;
+    margin-top: 50px;
+
+}
+.mainheadtext{
+    color: rgba(6, 6, 100, 0.849);
+    font-size: 2.1rem;
+    text-align: left;
+    font-weight: 700;
+    margin-top: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .mainheadtext{
+        color: rgba(6, 6, 100, 0.849);
+        font-size: 1.8rem;
+        text-align: left;
+        font-weight: 700;
+        margin-top: 100px;
+        width: 100%;
+        
+    }
+    .rightimg{
+        width: 20px;
+        height: 20px;
+        /* padding-left: 50px; */
+        /* background-color: gray; */
+    }
+    .rightimg2{
+        width: 100%;
+        height: 100%;
+        margin-left: 10px;
+        margin-top: 20px;
+        /* padding-left: 100px; */
+    }
+    .assian{
+        color: #01A6D4;
+        font-weight: 500;
+        font-size: 1.4rem;
+    }
+    .viate{
+        color: rgba(128, 128, 128, 0.575);
+        font-size: 1.1rem;
+        font-weight: 600;
+    }
+
+
+}

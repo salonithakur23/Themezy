@@ -1,0 +1,10 @@
+.mainParent{
+    width: 100%;
+    height: 450px;
+    background-color:white !important;
+    margin-top: 50px;
+}
+.setWidth{
+    width: 100%;
+    height: 450px;
+}

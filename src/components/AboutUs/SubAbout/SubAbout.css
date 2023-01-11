@@ -1,0 +1,88 @@
+.MAin-CardBody{
+    width: 300px;
+    height: 720px;
+    margin-top: 100px;
+    background-color: rgba(243, 241, 241, 0.418);
+    margin-left: 300px;
+    border: none;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.internal{
+    color: rgb(7, 7, 128);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.subgray{
+    color: gray;
+    font-size: 1.4rem;
+    text-align: left;
+    margin-left: 10px;
+    /* width: 100%; */
+}
+.img-box{
+    width: 300px;
+    height: 300px;
+    /* background-color: gray; */
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+.img-Box{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+ 
+}
+.display{
+    display: flex;
+}
+.bluecolor{
+    color: rgb(4, 4, 129);
+    font-size: 1.6rem;
+    width: 200%;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 100px;
+}
+.gracy{
+    color: rgba(128, 128, 128, 0.493);
+    width: 150%;
+    font-size: 1.2rem;
+    margin-top: 30px;
+    text-align: left;
+}
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .bluecolor{
+        color: rgb(4, 4, 129);
+        font-size: 1.6rem;
+        width: 100%;
+        font-weight: 700;
+        text-align: left;
+        margin-top: 100px;
+    }
+    .gracy{
+        color: rgba(128, 128, 128, 0.493);
+        width: 100%;
+        font-size: 1.2rem;
+        margin-top: 30px;
+        text-align: left;
+    }
+    .MAin-CardBody{
+        width: 300px;
+        height: 720px;
+        margin-top: 100px;
+        background-color: rgba(243, 241, 241, 0.418);
+        margin-left: 40px;
+        border: none;
+        box-shadow: 2px 2px 2px 2px gray;
+    }
+    
+
+
+}
